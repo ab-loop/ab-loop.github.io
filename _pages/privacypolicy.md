@@ -12,11 +12,11 @@ Effective Date: **2023/1/7**
 
 ## Introduction
 
-_MonsBox_ is a product offered by _MonsLib_ ("we"). When you use our services, we may collect and use information about you. Through this Privacy Policy, we want to explain to you how we collect, use, store and share this information when you use our Services, and the ways in which we provide you with access to, update, control and protect this information. This Privacy Policy is relevant to your use of the _MonsBox_ service and we hope you will read it carefully and, if necessary, make the choices you deem appropriate in accordance with the guidelines in this Privacy Policy. We have tried to keep the technical terms used in this Privacy Policy as clear and concise as possible, and have provided links to further instructions for your understanding.
+_ABLoop_ is a product offered by _MonsLib_ ("we"). When you use our services, we may collect and use information about you. Through this Privacy Policy, we want to explain to you how we collect, use, store and share this information when you use our Services, and the ways in which we provide you with access to, update, control and protect this information. This Privacy Policy is relevant to your use of the _ABLoop_ service and we hope you will read it carefully and, if necessary, make the choices you deem appropriate in accordance with the guidelines in this Privacy Policy. We have tried to keep the technical terms used in this Privacy Policy as clear and concise as possible, and have provided links to further instructions for your understanding.
 
 **By using or continuing to use our services, you consent to our collection, use, storage and sharing of information about you in accordance with this Privacy Policy. **
 
-If you have any questions about this Privacy Policy or related matters, please contact us at **monsbox@126.com**.
+If you have any questions about this Privacy Policy or related matters, please contact us at **abloop@126.com**.
 
 ## 1\. Information We Collect
 
